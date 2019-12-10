@@ -1,0 +1,11 @@
+C:\Users\hesha\Desktop\TaskOS2\bin\Debug\netcoreapp3.0\TaskOS2.exe
+C:\Users\hesha\Desktop\TaskOS2\bin\Debug\netcoreapp3.0\TaskOS2.deps.json
+C:\Users\hesha\Desktop\TaskOS2\bin\Debug\netcoreapp3.0\TaskOS2.runtimeconfig.json
+C:\Users\hesha\Desktop\TaskOS2\bin\Debug\netcoreapp3.0\TaskOS2.runtimeconfig.dev.json
+C:\Users\hesha\Desktop\TaskOS2\bin\Debug\netcoreapp3.0\TaskOS2.dll
+C:\Users\hesha\Desktop\TaskOS2\bin\Debug\netcoreapp3.0\TaskOS2.pdb
+C:\Users\hesha\Desktop\TaskOS2\obj\Debug\netcoreapp3.0\TaskOS2.csprojAssemblyReference.cache
+C:\Users\hesha\Desktop\TaskOS2\obj\Debug\netcoreapp3.0\TaskOS2.AssemblyInfoInputs.cache
+C:\Users\hesha\Desktop\TaskOS2\obj\Debug\netcoreapp3.0\TaskOS2.AssemblyInfo.cs
+C:\Users\hesha\Desktop\TaskOS2\obj\Debug\netcoreapp3.0\TaskOS2.dll
+C:\Users\hesha\Desktop\TaskOS2\obj\Debug\netcoreapp3.0\TaskOS2.pdb
