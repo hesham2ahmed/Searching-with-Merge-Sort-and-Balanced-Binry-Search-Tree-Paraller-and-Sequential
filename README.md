@@ -1,4 +1,4 @@
-# Searching with Merge Sort and Balanced Binry Search Tree Paraller and Sequential
+# Searching using Merge Sort and Balanced Binary Search Tree parallelly 
 
 The program is create a test case and store it in a text file and then reading it
 
